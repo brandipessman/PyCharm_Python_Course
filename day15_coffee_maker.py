@@ -5,7 +5,7 @@ cont = True
 
 
 def calculate_change(drink):
-    print("Please insert coins.")
+    print(f"Please insert coins. It costs ${menu[drink]['cost']}.")
     quarters = int(input("How many quarters?: ")) * 0.25
     dimes = int(input("How many dimes?: ")) * 0.10
     nickels = int(input("How many nickels?: ")) * 0.05
