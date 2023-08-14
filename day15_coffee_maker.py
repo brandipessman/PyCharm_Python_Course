@@ -1,5 +1,5 @@
-from main import menu
-from main import resources
+from data import menu
+from data import resources
 
 cont = True
 
