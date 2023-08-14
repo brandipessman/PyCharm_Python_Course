@@ -1,5 +1,5 @@
-from data import menu
-from data import resources
+from day16-data import menu
+from day16-data import resources
 
 cont = True
 

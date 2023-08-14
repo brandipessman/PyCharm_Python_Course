@@ -22,9 +22,9 @@
 # table.align = "l"
 # print(table)
 
-from data import Menu, MenuItem
-from data import CoffeeMaker
-from data import MoneyMachine
+from day16-data import Menu, MenuItem
+from day16-data import CoffeeMaker
+from day16-data import MoneyMachine
 
 money_machine = MoneyMachine()
 coffee_maker = CoffeeMaker()
