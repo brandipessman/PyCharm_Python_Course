@@ -6,4 +6,4 @@ def hello_world():
     return 'Hello, World!'
 
 if __name__ == "__main__":
-    app.run() # same as saying flask run in terminal
+    app.run(debug = True) # same as saying flask run in terminal
