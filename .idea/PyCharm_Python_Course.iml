@@ -6,8 +6,9 @@
       <excludeFolder url="file://$MODULE_DIR$/venv" />
       <excludeFolder url="file://$MODULE_DIR$/day63_library_SQL/venv" />
       <excludeFolder url="file://$MODULE_DIR$/day64_top_movies/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/day66_cafe_api/venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.9 (PyCharm_Python_Course) (4)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.9 (PyCharm_Python_Course) (5)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
