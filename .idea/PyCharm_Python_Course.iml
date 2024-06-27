@@ -9,8 +9,9 @@
       <excludeFolder url="file://$MODULE_DIR$/day66_cafe_api/venv" />
       <excludeFolder url="file://$MODULE_DIR$/day67_upgraded_blog/venv" />
       <excludeFolder url="file://$MODULE_DIR$/day67_flask_auth/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/day69_blog_with_users/venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.9 (PyCharm_Python_Course) (7)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.9 (PyCharm_Python_Course) (8)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
