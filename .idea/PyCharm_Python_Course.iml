@@ -10,8 +10,9 @@
       <excludeFolder url="file://$MODULE_DIR$/day67_upgraded_blog/venv" />
       <excludeFolder url="file://$MODULE_DIR$/day67_flask_auth/venv" />
       <excludeFolder url="file://$MODULE_DIR$/day69_blog_with_users/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/day71_blog_deployment/venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.9 (PyCharm_Python_Course) (8)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.9 (PyCharm_Python_Course) (9)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
